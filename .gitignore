@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Excel 文件（如果你不想把填满数据的表格传上去）
+*.xlsx
+*.xlsm
+
+# 系统文件
+.DS_Store
+Thumbs.db
